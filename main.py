@@ -27,6 +27,22 @@ def predict(month, customer_visiting_website, seller_avaible):
     number = randint(2000, 5000)
     return f"{number}"
 
+
+@app.route('/sellers', methods=['GET', 'POST', 'PATCH', 'DELETE'])
+def seller():
+    if request.method == 'GET' :
+        sellers = "test get"
+        return sellers
+    elif request.method == 'POST' :
+        sellers = "test post"
+        return sellers
+    elif request.method == 'PATCH' :
+        sellers = "test patch"
+        return sellers
+    else:
+        sellers = "test delete"
+        return sellers
+
 if __name__ == '__main__':
    app.run(port=5000)
 
