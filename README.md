@@ -16,8 +16,8 @@ This is a solo project
 - Create a Flask API
 - Add a route with a GET method
 - Add a route with a POST method
-- Get data from a GET request, transorm it and return it
-- Get data from a POST request, transorm it and return it
+- Get data from a GET request, transform it and return it
+- Get data from a POST request, transform it and return it
 
 **Personnal additions**
 - learning to use a Database in Flask with flask-sqlalchemy
