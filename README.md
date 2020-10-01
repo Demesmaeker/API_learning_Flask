@@ -32,7 +32,13 @@ All the work done was made during the BeCode's AI's formation 2020-2021.
 
 
 ### Preview
-**Coming soon**
+
+![Documentation of the API : the routes](https://github.com/Demesmaeker/API_learning_Flask/blob/master/preview_api_doc_routes.PNG)
+
+
+
+![Documentation of the API : Get all the sellers](https://github.com/Demesmaeker/API_learning_Flask/blob/master/preview_api_doc_get_sellers.png)
+
 
 
 ### Progress
