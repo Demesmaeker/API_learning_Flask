@@ -18,7 +18,8 @@ This is a solo project
 - Add a route with a POST method
 - Get data from a GET request, transorm it and return it
 - Get data from a POST request, transorm it and return it
-**Personnals addition**
+
+**Personnal additions**
 - learning to use a Database in Flask with flask-sqlalchemy
 - Using others requests such as PUT, PATCH and DELETE
 
