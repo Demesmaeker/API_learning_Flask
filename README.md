@@ -5,7 +5,7 @@ The purpose of this code is to learn how to do the basis of an API using Flask
 
 ## Map of the API
 
-![Map of the API](https://github.com/Demesmaeker/API_learning_Flask/blob/master/Api_UML.svg)
+![Map of the API](https://github.com/Demesmaeker/API_learning_Flask/blob/master/img/Api_UML.svg)
 
 
 ### Who
@@ -34,11 +34,11 @@ All the work done was made during the BeCode's AI's formation 2020-2021.
 
 ### Preview
 
-![Documentation of the API : the routes](https://github.com/Demesmaeker/API_learning_Flask/blob/master/preview_api_doc_routes.PNG)
+![Documentation of the API : the routes](https://github.com/Demesmaeker/API_learning_Flask/blob/master/img/preview_api_doc_routes.PNG)
 
 
 
-![Documentation of the API : Get all the sellers](https://github.com/Demesmaeker/API_learning_Flask/blob/master/preview_api_doc_get_sellers.png)
+![Documentation of the API : Get all the sellers](https://github.com/Demesmaeker/API_learning_Flask/blob/master/img/preview_api_doc_get_sellers.png)
 
 
 
